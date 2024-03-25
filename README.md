@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently working on projects involving software dev in the medical field. I’m currently learning web development and android.
 <!--
 **QueenKimi/QueenKimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
