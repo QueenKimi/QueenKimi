@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm hiba</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h1 align="center">Hi 👋, I'm Kimberly</h1>
+<h3 align="center">A passionate Cybersecurity/Web/AI developer from the US</h3>
 
-- 🔭 I’m currently working on **medicine**
+- 🔭 I’m currently working on **The integration of AI in Environmental Science studies**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Security Automation and Orchestration**
 
 - 💬 Ask me about **react**
 
